@@ -1,0 +1,19 @@
+C:\Users\luis.vega\Desktop\Aplicación\Precios\Precios\bin\Debug\Precios.exe.config
+C:\Users\luis.vega\Desktop\Aplicación\Precios\Precios\bin\Debug\Precios.exe
+C:\Users\luis.vega\Desktop\Aplicación\Precios\Precios\bin\Debug\Precios.pdb
+C:\Users\luis.vega\Desktop\Aplicación\Precios\Precios\obj\Debug\Precios.csprojResolveAssemblyReference.cache
+C:\Users\luis.vega\Desktop\Aplicación\Precios\Precios\obj\Debug\Precios.exe
+C:\Users\luis.vega\Desktop\Aplicación\Precios\Precios\obj\Debug\Precios.pdb
+C:\Users\luis.vega\Desktop\Aplicación\Precios\Precios\bin\Debug\EPPlus.dll
+C:\Users\luis.vega\Desktop\Sitios actuales\Aplicación\Precios\Precios\bin\Debug\Precios.exe.config
+C:\Users\luis.vega\Desktop\Sitios actuales\Aplicación\Precios\Precios\obj\Debug\Precios.exe
+C:\Users\luis.vega\Desktop\Sitios actuales\Aplicación\Precios\Precios\obj\Debug\Precios.pdb
+C:\Users\luis.vega\Desktop\Sitios actuales\Aplicación\Precios\Precios\bin\Debug\Precios.exe
+C:\Users\luis.vega\Desktop\Sitios actuales\Aplicación\Precios\Precios\bin\Debug\Precios.pdb
+C:\Users\luis.vega\Desktop\Sitios actuales\Aplicación\Precios\Precios\obj\Debug\Precios.csprojResolveAssemblyReference.cache
+C:\Users\luis.vega\Desktop\Sitios actuales\Aplicación\Precios\Precios\bin\Debug\Json.dll
+C:\Users\luis.vega\Desktop\Sitios actuales\Aplicación\Precios\Precios\bin\Debug\Newtonsoft.Json.dll
+C:\Users\luis.vega\Desktop\Sitios actuales\Aplicación\Precios\Precios\bin\Debug\System.Json.dll
+C:\Users\luis.vega\Desktop\Sitios actuales\Aplicación\Precios\Precios\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\luis.vega\Desktop\Sitios actuales\Aplicación\Precios\Precios\bin\Debug\Json.pdb
+C:\Users\luis.vega\Desktop\Sitios actuales\Aplicación\Precios\Precios\bin\Debug\Newtonsoft.Json.xml
